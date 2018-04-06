@@ -27,6 +27,6 @@
     ]
   },
   "dependencies": {
-    "@expo/react-native-action-sheet": "git+https://github.com/appkit-shared/react-native-action-sheet.git"
+    "@appkit-shared/react-native-action-sheet": "github:appkit-shared/react-native-action-sheet"
   }
 }

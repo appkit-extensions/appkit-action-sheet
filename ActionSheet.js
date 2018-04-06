@@ -1,2 +1,1 @@
-import { ActionSheet }  from '@expo/react-native-action-sheet'
-export default ActionSheet
+module.exports = require('@appkit-shared/react-native-action-sheet');
