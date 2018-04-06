@@ -1,2 +1,2 @@
-import { ActionSheet }  from 'react-native-action-sheet'
+import { ActionSheet }  from '@expo/react-native-action-sheet'
 export default ActionSheet
